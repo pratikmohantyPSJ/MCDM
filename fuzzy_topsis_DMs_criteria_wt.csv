@@ -1,0 +1,6 @@
+,DM1,DM2,DM3
+exp,VH,EH,M
+tot bugs asgn,H,H,VH
+new bugs,L,M,VH
+tot fixed bugs,VH,VH,EH
+avg fixing time(days),EH,VH,H
